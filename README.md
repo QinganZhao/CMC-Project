@@ -47,6 +47,8 @@ This study aims to better understand people's expectations and behaviors when us
 
 <br /> 
 
+<div align=left>
+
 #### Advantages
 
 * Proper response for most questions
