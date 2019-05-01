@@ -21,5 +21,43 @@ This study aims to better understand people's expectations and behaviors when us
 * **10** minutes for each type of task
 * **60** hours data coding
 
-## Quantitative Results
+## Results
 
+<div align=center><img width="600" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/correlation_social.png>
+ 
+**Fig. 1:** Correlations between smartness, effectiveness, and satisfaction (social talk)
+
+<br /> 
+
+<div align=center><img width="600" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/correlation_task.png>
+ 
+**Fig. 2:** Correlations between smartness, effectiveness, and satisfaction (task talk)
+
+<br /> 
+
+<div align=center><img width="600" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/task_vs_social.png>
+ 
+**Fig. 3:** Overall experience of task talk vs. social talk
+
+<br /> 
+
+<div align=center><img width="600" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/wifi_vs_delay.png>
+ 
+**Fig. 4:** Delay comparison in terms of using WiFi
+
+<br /> 
+
+#### Advantages
+
+* Proper response for most questions
+* Clarify the questions or contents
+* Provide the source of the answer
+* Learn through answering questions
+* Reply with a sense of humor
+* Predict potential needs
+
+#### Need to improve
+
+* Easy to fail in responding high-context questions
+* May provide answers that are not to the question but related to the topic
+* Wait time is too short before switching to the sleep mode
