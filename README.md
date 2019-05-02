@@ -47,6 +47,12 @@ This study aims to better understand people's expectations and behaviors when us
 
 <br /> 
 
+<img height="300" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/PPratingtodelay.png>  <img height="300" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/ResponseTypetoTalkType.png>
+
+**Fig. 5:** Relations between participants' rating distribution and delay time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Fig. 6:** Response type distribution for social and task talk
+
+<br /> 
+
 <div align=left>
 
 #### Advantages
