@@ -75,3 +75,7 @@ This study aims to better understand people's expectations and behaviors when us
 * Easy to fail in responding high-context questions
 * May provide answers that are not to the question but related to the topic
 * Wait time is too short before switching to the sleep mode
+
+## Conclusions
+
+Google Home is selected as the smart assistant and the performance is evaluated in social-oriented and task-oriented conversations. The overall experience of task conversation was batter than social ones. The performance of Google Home was significantly better when it was used in a WiFi condition. There were larger differences in participants' evaluations towards social conversations. Participants' ratings were negatively influenced by the delay of Google Home's responses.
