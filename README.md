@@ -41,21 +41,27 @@ This study aims to better understand people's expectations and behaviors when us
 
 <br /> 
 
+<div align=center><img width="600" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/rating.png>
+ 
+**Fig. 4:** Rating comparison between social talk and task talk
+
+<br /> 
+
 <div align=center><img width="600" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/wifi_vs_delay.png>
  
-**Fig. 4:** Delay comparison in terms of using WiFi
+**Fig. 5:** Delay comparison in terms of using WiFi
 
 <br /> 
 
 <img height="450" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/PPratingtodelay.png>  
 
-**Fig. 5:** Relations between participants' rating distribution and delay time
+**Fig. 6:** Relations between participants' rating distribution and delay time
 
 <br /> 
 
 <img height="450" src=https://github.com/QinganZhao/CMC-Project/blob/master/figs/ResponseTypetoTalkType.png>
 
-**Fig. 6:** Response type distribution for social and task talk
+**Fig. 7:** Response type distribution for social and task talk
 
 <br /> 
 
